@@ -1,11 +1,9 @@
 ## السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ 
 
+Disza.. nama yang menurut saya unik, hampir setiap guruku sulit untuk mengucapkannya. Berhubung huruf s dan z yang bersamaan. Mereka lebih sering memanggil saya dengan 'disja'. Engga masalah sih.. hihi
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Programming
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
